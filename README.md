@@ -40,5 +40,8 @@ Project List
 1. Project 1 - Data prepocessing and Exploration
    Description: Prepocessed raw data by handling missing and duplicate values, encoding categorical data, and normalizing/standardizing data. Performed exploratory data analysis (EDA) to uncover trends and patterns.
    See Data Mining Project 1.ipynb
+2. Project 2 - Classification Machine Learning
+   Description: Preprocessed raw data by handling missing and duplicate values, scaling data, and applying SMOTE to class imbalance. Applied Decision Tree and Random Forest classifier models and evaluated the performance with Accuracy, F1 score, and confusion matrices.
+   See Data Mining Project 2.ipynb
 
    
